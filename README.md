@@ -6,11 +6,11 @@ TO EDIT IT TO WORK WITH YOUR INFORMATION LOOK IN APP.js
 
 # How To Access and What you need:
 
-js/app.js
+js/app.js- Config: 
 
-Config: 
+Your Livemap Link
 
-LIVEMAP_LINK
-API_KEY
-COMMUNITY_ID
-SERVER_ID  
+Sonoran Cad:
+API Key
+Community ID
+Server ID 
