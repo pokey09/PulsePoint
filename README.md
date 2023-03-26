@@ -1,2 +1,4 @@
 # PulsePoint
-PulsePoint /w Sonoran Cad and LiveMap Integration
+PulsePoint for Sonoran CAD
+
+TO EDIT IT TO WORK WITH YOUR INFORMATION LOOK IN APP.js

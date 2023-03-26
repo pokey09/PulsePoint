@@ -1,0 +1,96 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+header {
+    background-color: #cc0000;
+    padding: 1rem;
+}
+
+.header-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    max-width: 200px;
+}
+
+.main-container {
+    text-align: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.view-buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.view-button {
+    background-color: #cc0000;
+    color: #fff;
+    border: none;
+    padding: 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-right: 0.5rem;
+}
+
+.view-button:last-child {
+    margin-right: 0;
+}
+
+.view-button.active {
+    background-color: #990000;
+}
+
+.map-container {
+    text-align: center;
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.incidents-container {
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+#active-incidents-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#active-incidents-list li {
+    border-bottom: 1px solid #ccc;
+    padding: 1rem 0;
+}
+
+#active-incidents-list li:last-child {
+    border-bottom: none;
+}
+
+.hidden {
+    display: none;
+}
