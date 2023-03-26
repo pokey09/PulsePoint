@@ -1,8 +1,8 @@
 //////////////////////////CONFIG//////////////////////////////
     const LIVEMAP_LINK = 'https://web.pulsepoint.org/';
 //                  SONORAN CAD INFO                        //
-    const API_KEY = 'E13B2B6-F8C3-4DEE-B2';                 
-    const COMMUNITY_ID = 'rebsrp';                          
+    const API_KEY = '';                 
+    const COMMUNITY_ID = '';                          
     const SERVER_ID = 1;                                    
 //////////////////////////////////////////////////////////////
 
